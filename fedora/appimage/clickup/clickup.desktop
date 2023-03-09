@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Clickup
+Exec=/opt/clickup/clickup-3.2.8.AppImage
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;Internet;Project;Management
+Icon=/opt/clickup/default48.png
