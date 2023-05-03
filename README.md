@@ -7,3 +7,6 @@
 ## All Linux:
 1. [Google Drive](https://github.com/devhero/linux-tools/blob/main/linux/all/google-drive/install.md)
 2. [Microsoft OneDrive](https://github.com/devhero/linux-tools/blob/main/linux/all/onedrive/install.md)
+3. [OCRmyPDF](https://ocrmypdf.readthedocs.io/en/latest/docker.html)
+4. [Xournal++ (note taker, I use it to put signs in docs)](https://xournalpp.github.io/)
+5. [gotenberg (A Docker-powered stateless API for PDF files)](https://github.com/gotenberg/gotenberg)
