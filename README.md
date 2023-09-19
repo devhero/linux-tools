@@ -10,3 +10,6 @@
 3. [OCRmyPDF](https://ocrmypdf.readthedocs.io/en/latest/docker.html)
 4. [Xournal++ (note taker, I use it to put signs in docs)](https://xournalpp.github.io/)
 5. [gotenberg (A Docker-powered stateless API for PDF files)](https://github.com/gotenberg/gotenberg)
+
+## System commands:
+1. [Finding the process that is using a certain port in Linux](https://github.com/devhero/linux-tools/blob/main/linux/all/system.md)
