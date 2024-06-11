@@ -9,3 +9,10 @@ Edit `~/.docker/config.json` changing key `"credsStore"` in `"credStore"`:
       "credStore": "desktop",
       "currentContext": "desktop-linux"
     }
+
+
+Container run and stay up
+
+```shell
+CMD ["sh", "-c", "while true; do sleep 1; done"]
+```
