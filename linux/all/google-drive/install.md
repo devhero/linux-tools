@@ -79,6 +79,9 @@ Alias=google-drive.service
 # activate service
 sudo systemctl daemon-reload
 
+# enable service
+sudo systemctl enable google-drive
+
 # start service
 sudo systemctl start google-drive
 
